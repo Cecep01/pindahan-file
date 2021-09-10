@@ -1,0 +1,43 @@
+[
+
+    {
+        "dosen" : "dendy",
+        "Nim" : 1234,
+        "Nama" : "udin",
+        "umur" : 12 ,
+        "email" : "wildan@gmail.com"
+    },
+
+
+    {
+        "dosen" : "muhammad",
+        "Nim" : 1234,
+        "Nama" : "udin",
+        "umur" : 12 ,
+        "email" : "wildan@gmail.com"
+    },
+
+
+    {
+        "dosen" : "tarsinah",
+        "Nim" : 1234,
+        "Nama" : "udin",
+        "umur" : 12 ,
+        "email" : "wildan@gmail.com"
+    },
+
+
+    {
+        "dosen" : "saepudin",
+        "Nim" : 1234,
+        "Nama" : "udin",
+        "umur" : 12 ,
+        "email" : "wildan@gmail.com"
+    }
+
+    
+    
+
+    
+
+]

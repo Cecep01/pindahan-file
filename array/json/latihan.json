@@ -1,0 +1,14 @@
+[
+
+    
+    {
+
+        "nama" : "cecep" ,
+       "domisili" : "bandung",
+       "hobi" : [
+           
+           "berenang" , "berlari" , "bertamasya"
+
+       ]
+    }
+]
