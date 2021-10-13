@@ -33,7 +33,7 @@ if (isset($_POST['simpan'])) {
     $angka = $_POST['angka'];
 
 for ($a = 0; $a <= $angka; $a++) {
-    echo "angka : $a <br>";
+    echo  $a ." <br>";
 }
 }
 
